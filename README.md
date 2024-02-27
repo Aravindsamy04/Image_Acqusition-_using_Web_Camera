@@ -129,29 +129,43 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
+![OP01](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/aeef0405-c96b-45bc-86d9-b79adb06940c)
+
+
 </br>
 
-![OP01](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/a629018a-1057-47cb-8078-9740dce26455)
+</br>
+
 
 ### ii) Display the video
+
+![OP01](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/1d095ea7-6395-47e1-9c88-8bac251e7c16)
+
 </br>
+
 </br>
 
 
 ### iii) Display the video by resizing the window
+
+
+![OP02](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/302989fa-b2ec-46b0-b688-a087e5501c12)
+
 </br>
+
 </br>
-![OP02](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/842956fc-b031-4516-a7f6-f13c08282761)
 
 
 
 ### iv) Rotate and display the video
+
+![OP03](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/d75285e5-4bb3-41c3-a408-b7305daf7de0)
+
 </br>
 </br>
 
-![OP03](https://github.com/Aravindsamy04/Image_Acqusition-_using_Web_Camera/assets/113497037/908c9156-bcac-4e33-97b5-cdf17a18f47d)
-
+### Result:
+Thus the image is accessed from webcamera and displayed using openCV
 
 
 
